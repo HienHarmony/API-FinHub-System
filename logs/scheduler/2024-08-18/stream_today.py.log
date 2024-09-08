@@ -1,0 +1,77 @@
+[2024-08-18T04:32:33.315+0000] {processor.py:161} INFO - Started process (PID=263) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:32:33.317+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:32:33.323+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:32:33.322+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:32:35.367+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:32:35.491+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:32:35.490+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:32:35.596+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:32:35.595+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:32:35.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 2.354 seconds
+[2024-08-18T04:33:06.503+0000] {processor.py:161} INFO - Started process (PID=275) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:33:06.506+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:33:06.515+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:33:06.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:33:10.988+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:33:11.411+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:33:11.410+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:33:11.506+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:33:11.505+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:33:11.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 5.119 seconds
+[2024-08-18T04:33:41.993+0000] {processor.py:161} INFO - Started process (PID=287) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:33:41.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:33:41.997+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:33:41.996+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:33:42.649+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:33:42.674+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:33:42.674+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:33:42.694+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:33:42.694+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:33:42.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.731 seconds
+[2024-08-18T04:34:12.972+0000] {processor.py:161} INFO - Started process (PID=299) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:34:12.973+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:34:12.975+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:34:12.975+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:34:13.569+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:34:13.603+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:34:13.602+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:34:13.626+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:34:13.626+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:34:13.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.682 seconds
+[2024-08-18T04:34:43.895+0000] {processor.py:161} INFO - Started process (PID=311) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:34:43.896+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:34:43.898+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:34:43.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:34:44.474+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:34:44.502+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:34:44.501+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:34:44.523+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:34:44.523+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:34:44.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.658 seconds
+[2024-08-18T04:35:14.626+0000] {processor.py:161} INFO - Started process (PID=323) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:35:14.628+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:35:14.630+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:35:14.630+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:35:15.337+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:35:15.362+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:35:15.362+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:35:15.382+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:35:15.382+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:35:15.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.785 seconds
+[2024-08-18T04:35:45.634+0000] {processor.py:161} INFO - Started process (PID=335) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:35:45.635+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:35:45.637+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:35:45.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:35:46.243+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:35:46.270+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:35:46.269+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:35:46.292+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:35:46.291+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:35:46.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.683 seconds
+[2024-08-18T04:36:16.549+0000] {processor.py:161} INFO - Started process (PID=347) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:36:16.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:36:16.553+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:36:16.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:36:17.384+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:36:17.464+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:36:17.462+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:36:17.502+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:36:17.501+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:36:17.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.995 seconds
+[2024-08-18T04:36:47.997+0000] {processor.py:161} INFO - Started process (PID=359) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:36:47.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:36:48.000+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:36:48.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:36:48.963+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:36:49.026+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:36:49.025+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:36:49.075+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:36:49.074+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:36:49.120+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 1.131 seconds
+[2024-08-18T04:37:19.259+0000] {processor.py:161} INFO - Started process (PID=371) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:37:19.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:37:19.263+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:37:19.263+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:37:20.042+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:37:20.068+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:37:20.067+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:37:20.087+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:37:20.087+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:37:20.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.858 seconds
+[2024-08-18T04:37:50.455+0000] {processor.py:161} INFO - Started process (PID=383) to work on /opt/airflow/dags/stream_today.py
+[2024-08-18T04:37:50.456+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/stream_today.py for tasks to queue
+[2024-08-18T04:37:50.458+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:37:50.458+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:37:51.232+0000] {processor.py:840} INFO - DAG(s) 'streaming_data_today' retrieved from /opt/airflow/dags/stream_today.py
+[2024-08-18T04:37:51.269+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:37:51.268+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-18T04:37:51.297+0000] {logging_mixin.py:188} INFO - [2024-08-18T04:37:51.297+0000] {dag.py:3947} INFO - Setting next_dagrun for streaming_data_today to 2024-07-15 00:00:00+00:00, run_after=2024-07-15 00:00:00+00:00
+[2024-08-18T04:37:51.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/stream_today.py took 0.907 seconds
